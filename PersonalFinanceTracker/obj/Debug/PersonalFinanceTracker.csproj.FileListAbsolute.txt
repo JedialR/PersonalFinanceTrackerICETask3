@@ -1,0 +1,9 @@
+C:\Users\lab_services_student\source\repos\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\PersonalFinanceTracker.exe.config
+C:\Users\lab_services_student\source\repos\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\PersonalFinanceTracker.exe
+C:\Users\lab_services_student\source\repos\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\PersonalFinanceTracker.pdb
+C:\Users\lab_services_student\source\repos\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.exe
+C:\Users\lab_services_student\source\repos\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.pdb
